@@ -1,0 +1,16 @@
+{
+    "name": "Res",
+    "rootNamespace": "",
+    "references": [
+        "GUID:02b2f2fa5405d974196c61b3fca9ea34"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
